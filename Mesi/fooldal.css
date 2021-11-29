@@ -1,0 +1,30 @@
+body {
+	background-image: url('backround.jpg');
+	text-align: center;
+	color: #C78706;
+}
+
+h1 {
+	font-size: 600%;
+	padding-top: 13%;
+}
+
+h2 {
+	font-size: 350%;
+	padding-bottom: 30px;
+}
+
+a {
+	color: #c78706;
+	font-size: 175%;
+	border: 2px;
+	border-style: solid;
+	border-radius: 15px 0;
+	margin: 50px;
+	padding: 8px;
+	text-decoration: none;
+}
+
+a:hover {
+	font-size: 300%;
+}
